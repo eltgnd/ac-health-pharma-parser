@@ -1,8 +1,8 @@
-python=3.10
 pandas
 numpy
 streamlit
 transformers
 torch
 openpyxl
+
 xlsxwriter
